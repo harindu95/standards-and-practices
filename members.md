@@ -127,6 +127,7 @@ Format:
 | Greg Troszak | [gdtroszak](https://github.com/gdtroszak) ||
 | Greg Xu | [goooooouwa](https://github.com/goooooouwa) ||
 | Hans Saleh | [hsaleh](https://github.com/hsaleh) ||
+| Harindu Dilshan | [harindu95](https:///github.com/harindu95) | Just know the basics of java . |
 | Harsh | [hsinha](https://github.com/hsinha) ||
 | Holly Styles | [hollystyles](https://github.com/hollystyles) | 12 years experience LOB apps using Microsoft stack. Interested in everything programming. |
 | Howlden Coalfield | [howlden](https://github.com/howlden) | Law school dropout learning Python with 6.00x (edx.org), also want to learn C (low-level fascinates me, interface with hardware, etc.), and trying my hand at CSS/HTML and PHP on a Wordpress blog. Looking to kickstart a career in CS, need mentors and a plan. | 
